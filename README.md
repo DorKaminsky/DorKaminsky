@@ -35,7 +35,7 @@ Serverless microservices on AWS (Lambda, SQS, DynamoDB, Cognito, S3), Terraform 
 
 ---
 
-### [AI Data Analysis Tool](https://github.com/DorKaminsky/ChatGPT-Clone-Exercise)
+### [AI Data Analysis Tool](https://github.com/DorKaminsky/ai-data-analysis-tool)
 > Natural language queries over Excel files with **automatic chart generation**
 
 Upload data, ask questions in plain English, get instant visualizations. Claude selects the best chart type and streams responses in real time.
