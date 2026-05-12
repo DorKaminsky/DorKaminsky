@@ -64,11 +64,9 @@ Adds an "Improve Prompt" button + `Cmd/Ctrl+Shift+P` shortcut. Shows original vs
 
 | Area | Tools |
 |------|-------|
-| **Languages** | Python · TypeScript · Java · Groovy · Bash |
-| **AI / Agents** | Claude SDK · LangGraph · MCP · A2A · SAP AI Core |
+| **Languages** | Python · Groovy · Bash |
+| **AI / Agents** | Claude SDK · LangGraph · MCP · A2A · Claude Code |
 | **DevOps / CI-CD** | Jenkins · GitHub Actions · Docker · Vault · Grafana |
-| **Cloud** | AWS (Lambda, SQS, DynamoDB, S3, Cognito) · Terraform |
-| **Security** | OWASP LLM Top 10 · CodeQL · SonarQube · PMD · SpotBugs |
 
 ---
 
